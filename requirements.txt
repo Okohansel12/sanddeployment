@@ -1,0 +1,10 @@
+# Pinned to match the exact versions the models were trained/pickled with --
+# scikit-learn especially is NOT pickle-compatible across versions for
+# HistGradientBoostingRegressor. Do not bump these without retraining.
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
+joblib==1.5.3
+pydantic==2.9.2
