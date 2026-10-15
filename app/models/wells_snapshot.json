@@ -1,0 +1,1986 @@
+[
+  {
+    "well_id": "UZRW007L",
+    "field": "Uzere-West",
+    "last_recorded_month": "1966-07",
+    "expected_pptb": 0.4,
+    "ceiling_pptb": 5.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW010L",
+    "field": "Uzere-West",
+    "last_recorded_month": "1969-05",
+    "expected_pptb": 0.4,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE003L",
+    "field": "Afiesere",
+    "last_recorded_month": "1970-05",
+    "expected_pptb": 1.9,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE009L",
+    "field": "Afiesere",
+    "last_recorded_month": "1971-05",
+    "expected_pptb": 1.1,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW011L",
+    "field": "Uzere-West",
+    "last_recorded_month": "1972-01",
+    "expected_pptb": 0.6,
+    "ceiling_pptb": 5.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR010L",
+    "field": "Kokori",
+    "last_recorded_month": "1972-01",
+    "expected_pptb": 0.7,
+    "ceiling_pptb": 5.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR009L",
+    "field": "Kokori",
+    "last_recorded_month": "1972-11",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 8.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "UZRW015L",
+    "field": "Uzere-West",
+    "last_recorded_month": "1973-01",
+    "expected_pptb": 1.2,
+    "ceiling_pptb": 7.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE012L",
+    "field": "Afiesere",
+    "last_recorded_month": "1973-05",
+    "expected_pptb": 12.1,
+    "ceiling_pptb": 44.6,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "AFIE012L",
+    "field": "Afiesere",
+    "last_recorded_month": "1973-05",
+    "expected_pptb": 12.7,
+    "ceiling_pptb": 44.6,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "EVWR006L",
+    "field": "Evwreni",
+    "last_recorded_month": "1973-06",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 7.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR006L",
+    "field": "Evwreni",
+    "last_recorded_month": "1973-12",
+    "expected_pptb": 0.8,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR003L",
+    "field": "Kokori",
+    "last_recorded_month": "1973-12",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR012L",
+    "field": "Kokori",
+    "last_recorded_month": "1974-10",
+    "expected_pptb": 0.7,
+    "ceiling_pptb": 5.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE017L",
+    "field": "Afiesere",
+    "last_recorded_month": "1974-12",
+    "expected_pptb": 9.4,
+    "ceiling_pptb": 20.3,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "AFIE010T",
+    "field": "Afiesere",
+    "last_recorded_month": "1974-12",
+    "expected_pptb": 7.9,
+    "ceiling_pptb": 20.1,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "ERMU009L",
+    "field": "Eriemu",
+    "last_recorded_month": "1975-03",
+    "expected_pptb": 3.8,
+    "ceiling_pptb": 9.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE005L",
+    "field": "Afiesere",
+    "last_recorded_month": "1975-05",
+    "expected_pptb": 3.9,
+    "ceiling_pptb": 10.6,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ERMU001L",
+    "field": "Eriemu",
+    "last_recorded_month": "1975-06",
+    "expected_pptb": 3.2,
+    "ceiling_pptb": 9.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ORNI001L",
+    "field": "Oroni",
+    "last_recorded_month": "1975-12",
+    "expected_pptb": 3.7,
+    "ceiling_pptb": 10.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR021L",
+    "field": "Kokori",
+    "last_recorded_month": "1976-06",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 9.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ORNI003L",
+    "field": "Oroni",
+    "last_recorded_month": "1976-06",
+    "expected_pptb": 12.3,
+    "ceiling_pptb": 35.9,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "ERMU006L",
+    "field": "Eriemu",
+    "last_recorded_month": "1979-03",
+    "expected_pptb": 1.1,
+    "ceiling_pptb": 8.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM029L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "1979-07",
+    "expected_pptb": 11.2,
+    "ceiling_pptb": 30.5,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "ORNI004L",
+    "field": "Oroni",
+    "last_recorded_month": "1980-04",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 12.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ERMU007L",
+    "field": "Eriemu",
+    "last_recorded_month": "1980-08",
+    "expected_pptb": 4.7,
+    "ceiling_pptb": 12.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR014L",
+    "field": "Kokori",
+    "last_recorded_month": "1980-11",
+    "expected_pptb": 6.2,
+    "ceiling_pptb": 15.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR007S",
+    "field": "Kokori",
+    "last_recorded_month": "1982-03",
+    "expected_pptb": 1.1,
+    "ceiling_pptb": 8.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR005S",
+    "field": "Kokori",
+    "last_recorded_month": "1982-05",
+    "expected_pptb": 7.3,
+    "ceiling_pptb": 18.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR005L",
+    "field": "Kokori",
+    "last_recorded_month": "1983-02",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 9.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ORNI008L",
+    "field": "Oroni",
+    "last_recorded_month": "1985-04",
+    "expected_pptb": 16.6,
+    "ceiling_pptb": 48.8,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR019S",
+    "field": "Kokori",
+    "last_recorded_month": "1985-08",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 8.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR009S",
+    "field": "Evwreni",
+    "last_recorded_month": "1988-08",
+    "expected_pptb": 0.7,
+    "ceiling_pptb": 5.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ORNI002L",
+    "field": "Oroni",
+    "last_recorded_month": "1989-08",
+    "expected_pptb": 1.0,
+    "ceiling_pptb": 6.6,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE009S",
+    "field": "Afiesere",
+    "last_recorded_month": "1991-09",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 9.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE009S",
+    "field": "Afiesere",
+    "last_recorded_month": "1991-09",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 9.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE010T",
+    "field": "Afiesere",
+    "last_recorded_month": "1992-12",
+    "expected_pptb": 4.1,
+    "ceiling_pptb": 8.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE035L",
+    "field": "Afiesere",
+    "last_recorded_month": "1993-01",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 6.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM017S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "1993-01",
+    "expected_pptb": 5.7,
+    "ceiling_pptb": 14.3,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR012S",
+    "field": "Kokori",
+    "last_recorded_month": "1993-06",
+    "expected_pptb": 7.0,
+    "ceiling_pptb": 16.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR025S",
+    "field": "Kokori",
+    "last_recorded_month": "1993-08",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU019S",
+    "field": "Eriemu",
+    "last_recorded_month": "1993-09",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 5.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR003S",
+    "field": "Evwreni",
+    "last_recorded_month": "1993-12",
+    "expected_pptb": 4.2,
+    "ceiling_pptb": 13.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR031S",
+    "field": "Kokori",
+    "last_recorded_month": "1994-02",
+    "expected_pptb": 15.8,
+    "ceiling_pptb": 47.3,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "ERMU016S",
+    "field": "Eriemu",
+    "last_recorded_month": "1994-03",
+    "expected_pptb": 15.6,
+    "ceiling_pptb": 41.7,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "EVWR003L",
+    "field": "Evwreni",
+    "last_recorded_month": "1994-04",
+    "expected_pptb": 6.2,
+    "ceiling_pptb": 13.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR013C",
+    "field": "Kokori",
+    "last_recorded_month": "1994-06",
+    "expected_pptb": 9.9,
+    "ceiling_pptb": 22.9,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "AFIE017L",
+    "field": "Afiesere",
+    "last_recorded_month": "1994-07",
+    "expected_pptb": 12.3,
+    "ceiling_pptb": 25.4,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "AFIE040L",
+    "field": "Afiesere",
+    "last_recorded_month": "1994-12",
+    "expected_pptb": 3.9,
+    "ceiling_pptb": 11.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE040L",
+    "field": "Afiesere",
+    "last_recorded_month": "1994-12",
+    "expected_pptb": 3.9,
+    "ceiling_pptb": 11.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR019L",
+    "field": "Kokori",
+    "last_recorded_month": "1995-02",
+    "expected_pptb": 7.2,
+    "ceiling_pptb": 17.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR013L",
+    "field": "Kokori",
+    "last_recorded_month": "1995-04",
+    "expected_pptb": 5.2,
+    "ceiling_pptb": 13.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR018T",
+    "field": "Kokori",
+    "last_recorded_month": "1995-05",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 6.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR013S",
+    "field": "Evwreni",
+    "last_recorded_month": "1995-07",
+    "expected_pptb": 4.5,
+    "ceiling_pptb": 9.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ORNI003S",
+    "field": "Oroni",
+    "last_recorded_month": "1995-08",
+    "expected_pptb": 0.9,
+    "ceiling_pptb": 5.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR029S",
+    "field": "Kokori",
+    "last_recorded_month": "1995-10",
+    "expected_pptb": 10.5,
+    "ceiling_pptb": 25.6,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR007S",
+    "field": "Kokori",
+    "last_recorded_month": "1995-12",
+    "expected_pptb": 4.7,
+    "ceiling_pptb": 12.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR026T",
+    "field": "Kokori",
+    "last_recorded_month": "1996-01",
+    "expected_pptb": 6.6,
+    "ceiling_pptb": 16.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR022T",
+    "field": "Kokori",
+    "last_recorded_month": "1996-01",
+    "expected_pptb": 8.2,
+    "ceiling_pptb": 20.8,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR001L",
+    "field": "Kokori",
+    "last_recorded_month": "1996-01",
+    "expected_pptb": 7.2,
+    "ceiling_pptb": 18.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR001C",
+    "field": "Kokori",
+    "last_recorded_month": "1996-05",
+    "expected_pptb": 5.6,
+    "ceiling_pptb": 13.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM015S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "1996-05",
+    "expected_pptb": 24.6,
+    "ceiling_pptb": 89.7,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR009L",
+    "field": "Kokori",
+    "last_recorded_month": "1996-10",
+    "expected_pptb": 7.2,
+    "ceiling_pptb": 16.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR005L",
+    "field": "Evwreni",
+    "last_recorded_month": "1996-12",
+    "expected_pptb": 4.1,
+    "ceiling_pptb": 12.3,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR007L",
+    "field": "Kokori",
+    "last_recorded_month": "1997-01",
+    "expected_pptb": 4.1,
+    "ceiling_pptb": 11.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM018S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "1997-04",
+    "expected_pptb": 9.1,
+    "ceiling_pptb": 21.1,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "ERMU012S",
+    "field": "Eriemu",
+    "last_recorded_month": "1997-12",
+    "expected_pptb": 7.7,
+    "ceiling_pptb": 17.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ERMU012S",
+    "field": "Eriemu",
+    "last_recorded_month": "1997-12",
+    "expected_pptb": 7.7,
+    "ceiling_pptb": 17.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR006L",
+    "field": "Kokori",
+    "last_recorded_month": "1998-01",
+    "expected_pptb": 5.7,
+    "ceiling_pptb": 14.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ERMU014L",
+    "field": "Eriemu",
+    "last_recorded_month": "1998-08",
+    "expected_pptb": 6.3,
+    "ceiling_pptb": 14.6,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM039S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "1998-08",
+    "expected_pptb": 21.7,
+    "ceiling_pptb": 69.6,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR005T",
+    "field": "Kokori",
+    "last_recorded_month": "1998-09",
+    "expected_pptb": 4.6,
+    "ceiling_pptb": 12.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR024S",
+    "field": "Kokori",
+    "last_recorded_month": "1999-03",
+    "expected_pptb": 8.2,
+    "ceiling_pptb": 22.6,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "EVWR014L",
+    "field": "Evwreni",
+    "last_recorded_month": "1999-06",
+    "expected_pptb": 5.2,
+    "ceiling_pptb": 13.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR007L",
+    "field": "Evwreni",
+    "last_recorded_month": "1999-07",
+    "expected_pptb": 3.9,
+    "ceiling_pptb": 11.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR010L",
+    "field": "Evwreni",
+    "last_recorded_month": "1999-09",
+    "expected_pptb": 4.6,
+    "ceiling_pptb": 9.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR002L",
+    "field": "Evwreni",
+    "last_recorded_month": "1999-09",
+    "expected_pptb": 3.7,
+    "ceiling_pptb": 9.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE001S",
+    "field": "Afiesere",
+    "last_recorded_month": "2000-02",
+    "expected_pptb": 3.8,
+    "ceiling_pptb": 10.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE004S",
+    "field": "Afiesere",
+    "last_recorded_month": "2000-02",
+    "expected_pptb": 4.8,
+    "ceiling_pptb": 12.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE008S",
+    "field": "Afiesere",
+    "last_recorded_month": "2000-02",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 6.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR021S",
+    "field": "Kokori",
+    "last_recorded_month": "2000-08",
+    "expected_pptb": 2.8,
+    "ceiling_pptb": 7.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR003S",
+    "field": "Kokori",
+    "last_recorded_month": "2000-12",
+    "expected_pptb": 1.9,
+    "ceiling_pptb": 5.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR006L",
+    "field": "Kokori",
+    "last_recorded_month": "2000-12",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 8.3,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR015S",
+    "field": "Kokori",
+    "last_recorded_month": "2001-02",
+    "expected_pptb": 3.7,
+    "ceiling_pptb": 8.3,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR012L",
+    "field": "Kokori",
+    "last_recorded_month": "2001-04",
+    "expected_pptb": 5.4,
+    "ceiling_pptb": 11.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OWEH007L",
+    "field": "Oweh",
+    "last_recorded_month": "2001-05",
+    "expected_pptb": 3.2,
+    "ceiling_pptb": 6.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR024S",
+    "field": "Kokori",
+    "last_recorded_month": "2001-07",
+    "expected_pptb": 3.7,
+    "ceiling_pptb": 9.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR019S",
+    "field": "Kokori",
+    "last_recorded_month": "2001-08",
+    "expected_pptb": 6.3,
+    "ceiling_pptb": 14.6,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "UZRW014L",
+    "field": "Uzere-West",
+    "last_recorded_month": "2001-08",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 10.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR006S",
+    "field": "Kokori",
+    "last_recorded_month": "2002-01",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 9.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ERMU020S",
+    "field": "Eriemu",
+    "last_recorded_month": "2002-03",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 8.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR014S",
+    "field": "Kokori",
+    "last_recorded_month": "2002-07",
+    "expected_pptb": 1.5,
+    "ceiling_pptb": 6.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR025S",
+    "field": "Kokori",
+    "last_recorded_month": "2002-08",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 8.3,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR016L",
+    "field": "Kokori",
+    "last_recorded_month": "2002-08",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 8.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR015L",
+    "field": "Kokori",
+    "last_recorded_month": "2002-09",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 6.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR004S",
+    "field": "Evwreni",
+    "last_recorded_month": "2002-12",
+    "expected_pptb": 7.8,
+    "ceiling_pptb": 17.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR004L",
+    "field": "Evwreni",
+    "last_recorded_month": "2002-12",
+    "expected_pptb": 5.3,
+    "ceiling_pptb": 13.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR002L",
+    "field": "Kokori",
+    "last_recorded_month": "2002-12",
+    "expected_pptb": 13.4,
+    "ceiling_pptb": 42.9,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR017L",
+    "field": "Kokori",
+    "last_recorded_month": "2003-01",
+    "expected_pptb": 5.3,
+    "ceiling_pptb": 13.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE017S",
+    "field": "Afiesere",
+    "last_recorded_month": "2003-05",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 7.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE039S",
+    "field": "Afiesere",
+    "last_recorded_month": "2003-06",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 7.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE039S",
+    "field": "Afiesere",
+    "last_recorded_month": "2003-06",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 7.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE039L",
+    "field": "Afiesere",
+    "last_recorded_month": "2003-06",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE039L",
+    "field": "Afiesere",
+    "last_recorded_month": "2003-06",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE012L",
+    "field": "Afiesere",
+    "last_recorded_month": "2003-08",
+    "expected_pptb": 5.1,
+    "ceiling_pptb": 12.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR026T",
+    "field": "Kokori",
+    "last_recorded_month": "2003-08",
+    "expected_pptb": 4.0,
+    "ceiling_pptb": 11.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR029L",
+    "field": "Kokori",
+    "last_recorded_month": "2003-09",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 13.6,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR016S",
+    "field": "Kokori",
+    "last_recorded_month": "2003-11",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 7.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR028S",
+    "field": "Kokori",
+    "last_recorded_month": "2003-12",
+    "expected_pptb": 8.4,
+    "ceiling_pptb": 19.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE016T",
+    "field": "Afiesere",
+    "last_recorded_month": "2004-02",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 13.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE016T",
+    "field": "Afiesere",
+    "last_recorded_month": "2004-02",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 13.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR017S",
+    "field": "Kokori",
+    "last_recorded_month": "2004-04",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 9.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE035S",
+    "field": "Afiesere",
+    "last_recorded_month": "2004-05",
+    "expected_pptb": 5.9,
+    "ceiling_pptb": 14.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE004S",
+    "field": "Afiesere",
+    "last_recorded_month": "2004-05",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 11.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR022T",
+    "field": "Kokori",
+    "last_recorded_month": "2004-06",
+    "expected_pptb": 4.0,
+    "ceiling_pptb": 10.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "EVWR001L",
+    "field": "Evwreni",
+    "last_recorded_month": "2004-07",
+    "expected_pptb": 4.9,
+    "ceiling_pptb": 13.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM034L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2004-08",
+    "expected_pptb": 5.3,
+    "ceiling_pptb": 13.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR024L",
+    "field": "Kokori",
+    "last_recorded_month": "2004-08",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 7.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU007S",
+    "field": "Eriemu",
+    "last_recorded_month": "2004-09",
+    "expected_pptb": 3.7,
+    "ceiling_pptb": 10.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM017S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2004-09",
+    "expected_pptb": 12.2,
+    "ceiling_pptb": 30.6,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR002S",
+    "field": "Kokori",
+    "last_recorded_month": "2005-02",
+    "expected_pptb": 3.7,
+    "ceiling_pptb": 7.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR030S",
+    "field": "Kokori",
+    "last_recorded_month": "2005-04",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 5.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR032L",
+    "field": "Kokori",
+    "last_recorded_month": "2005-05",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 6.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE001S",
+    "field": "Afiesere",
+    "last_recorded_month": "2005-08",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE007S",
+    "field": "Afiesere",
+    "last_recorded_month": "2005-08",
+    "expected_pptb": 1.7,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE007S",
+    "field": "Afiesere",
+    "last_recorded_month": "2005-08",
+    "expected_pptb": 1.7,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM022S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2005-09",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR004T",
+    "field": "Kokori",
+    "last_recorded_month": "2005-09",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 8.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR002L",
+    "field": "Kokori",
+    "last_recorded_month": "2005-09",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU010L",
+    "field": "Eriemu",
+    "last_recorded_month": "2005-09",
+    "expected_pptb": 1.7,
+    "ceiling_pptb": 4.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU014S",
+    "field": "Eriemu",
+    "last_recorded_month": "2005-09",
+    "expected_pptb": 1.9,
+    "ceiling_pptb": 4.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU008S",
+    "field": "Eriemu",
+    "last_recorded_month": "2005-11",
+    "expected_pptb": 4.5,
+    "ceiling_pptb": 12.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR031L",
+    "field": "Kokori",
+    "last_recorded_month": "2005-11",
+    "expected_pptb": 1.1,
+    "ceiling_pptb": 4.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR028L",
+    "field": "Kokori",
+    "last_recorded_month": "2005-11",
+    "expected_pptb": 1.2,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR007T",
+    "field": "Kokori",
+    "last_recorded_month": "2006-01",
+    "expected_pptb": 1.1,
+    "ceiling_pptb": 4.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU013S",
+    "field": "Eriemu",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE029L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 9.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE028L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 5.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU009S",
+    "field": "Eriemu",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 4.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE033S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE004L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE013S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE036S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 1.7,
+    "ceiling_pptb": 4.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE037S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE037S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OWEH007S",
+    "field": "Oweh",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 1.6,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE041L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE041L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU005S",
+    "field": "Eriemu",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 7.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE030S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 6.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU005S",
+    "field": "Eriemu",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 7.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU006S",
+    "field": "Eriemu",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE029S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 6.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE008S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 7.6,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW015L",
+    "field": "Uzere-West",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.8,
+    "ceiling_pptb": 7.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE018T",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR027L",
+    "field": "Kokori",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 1.5,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE001L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE021T",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 5.6,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE026L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE024T",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 7.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE023S",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 4.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE015T",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.2,
+    "ceiling_pptb": 4.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE023L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE004L",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR010S",
+    "field": "Kokori",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 4.3,
+    "ceiling_pptb": 7.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR036T",
+    "field": "Kokori",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 6.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR035T",
+    "field": "Kokori",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 4.7,
+    "ceiling_pptb": 10.1,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE015T",
+    "field": "Afiesere",
+    "last_recorded_month": "2006-02",
+    "expected_pptb": 2.2,
+    "ceiling_pptb": 4.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM023S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2008-02",
+    "expected_pptb": 3.2,
+    "ceiling_pptb": 5.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW014L",
+    "field": "Uzere-West",
+    "last_recorded_month": "2008-03",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 6.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU011S",
+    "field": "Eriemu",
+    "last_recorded_month": "2008-04",
+    "expected_pptb": 4.0,
+    "ceiling_pptb": 7.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR014L",
+    "field": "Kokori",
+    "last_recorded_month": "2008-04",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 5.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM039L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2008-06",
+    "expected_pptb": 16.5,
+    "ceiling_pptb": 51.7,
+    "risk": "Critical"
+  },
+  {
+    "well_id": "KOKR009S",
+    "field": "Kokori",
+    "last_recorded_month": "2008-06",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 4.6,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW002S",
+    "field": "Uzere-West",
+    "last_recorded_month": "2008-07",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 6.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR025L",
+    "field": "Kokori",
+    "last_recorded_month": "2008-09",
+    "expected_pptb": 2.1,
+    "ceiling_pptb": 4.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR021L",
+    "field": "Kokori",
+    "last_recorded_month": "2008-09",
+    "expected_pptb": 1.1,
+    "ceiling_pptb": 5.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR001S",
+    "field": "Kokori",
+    "last_recorded_month": "2008-09",
+    "expected_pptb": 2.8,
+    "ceiling_pptb": 8.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR030L",
+    "field": "Kokori",
+    "last_recorded_month": "2008-09",
+    "expected_pptb": 3.2,
+    "ceiling_pptb": 7.6,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU019S",
+    "field": "Eriemu",
+    "last_recorded_month": "2008-10",
+    "expected_pptb": 4.6,
+    "ceiling_pptb": 11.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR027S",
+    "field": "Kokori",
+    "last_recorded_month": "2008-10",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 5.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR011L",
+    "field": "Evwreni",
+    "last_recorded_month": "2008-10",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 5.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM007S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2008-10",
+    "expected_pptb": 5.1,
+    "ceiling_pptb": 10.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "UZRW006L",
+    "field": "Uzere-West",
+    "last_recorded_month": "2008-10",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 4.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR005T",
+    "field": "Kokori",
+    "last_recorded_month": "2008-12",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 6.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR011L",
+    "field": "Kokori",
+    "last_recorded_month": "2008-12",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 4.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW012S",
+    "field": "Uzere-West",
+    "last_recorded_month": "2009-02",
+    "expected_pptb": 1.6,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR003L",
+    "field": "Kokori",
+    "last_recorded_month": "2009-02",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 5.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR001L",
+    "field": "Kokori",
+    "last_recorded_month": "2009-02",
+    "expected_pptb": 3.2,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR032S",
+    "field": "Kokori",
+    "last_recorded_month": "2009-02",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 7.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR011S",
+    "field": "Kokori",
+    "last_recorded_month": "2009-03",
+    "expected_pptb": 6.8,
+    "ceiling_pptb": 15.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE029S",
+    "field": "Afiesere",
+    "last_recorded_month": "2009-03",
+    "expected_pptb": 2.2,
+    "ceiling_pptb": 4.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR010L",
+    "field": "Kokori",
+    "last_recorded_month": "2009-03",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 6.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ORNI003L",
+    "field": "Oroni",
+    "last_recorded_month": "2009-05",
+    "expected_pptb": 1.5,
+    "ceiling_pptb": 5.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ORNI007S",
+    "field": "Oroni",
+    "last_recorded_month": "2009-05",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 8.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM011S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2009-05",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 6.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM003L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2009-05",
+    "expected_pptb": 4.1,
+    "ceiling_pptb": 6.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR013L",
+    "field": "Kokori",
+    "last_recorded_month": "2009-05",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 6.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM035S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2009-06",
+    "expected_pptb": 4.6,
+    "ceiling_pptb": 10.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM019S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2009-06",
+    "expected_pptb": 4.6,
+    "ceiling_pptb": 8.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE029L",
+    "field": "Afiesere",
+    "last_recorded_month": "2009-06",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 7.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OWEH011S",
+    "field": "Oweh",
+    "last_recorded_month": "2009-07",
+    "expected_pptb": 1.9,
+    "ceiling_pptb": 7.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE031L",
+    "field": "Afiesere",
+    "last_recorded_month": "2010-05",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 7.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR010S",
+    "field": "Evwreni",
+    "last_recorded_month": "2010-06",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 5.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "KOKR013S",
+    "field": "Kokori",
+    "last_recorded_month": "2010-07",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 4.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW005S",
+    "field": "Uzere-West",
+    "last_recorded_month": "2010-08",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 6.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW016L",
+    "field": "Uzere-West",
+    "last_recorded_month": "2010-09",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "UZRW011S",
+    "field": "Uzere-West",
+    "last_recorded_month": "2010-09",
+    "expected_pptb": 7.6,
+    "ceiling_pptb": 15.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "KOKR015L",
+    "field": "Kokori",
+    "last_recorded_month": "2010-09",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 7.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE013S",
+    "field": "Afiesere",
+    "last_recorded_month": "2010-09",
+    "expected_pptb": 3.1,
+    "ceiling_pptb": 8.6,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OLOM035L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2010-11",
+    "expected_pptb": 1.7,
+    "ceiling_pptb": 3.9,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE036L",
+    "field": "Afiesere",
+    "last_recorded_month": "2010-12",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU010S",
+    "field": "Eriemu",
+    "last_recorded_month": "2011-01",
+    "expected_pptb": 3.4,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE023L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-01",
+    "expected_pptb": 2.8,
+    "ceiling_pptb": 6.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ERMU017S",
+    "field": "Eriemu",
+    "last_recorded_month": "2011-02",
+    "expected_pptb": 5.2,
+    "ceiling_pptb": 9.8,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "OWEH002S",
+    "field": "Oweh",
+    "last_recorded_month": "2011-03",
+    "expected_pptb": 4.5,
+    "ceiling_pptb": 11.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE005S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.6,
+    "ceiling_pptb": 7.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE014L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.8,
+    "ceiling_pptb": 7.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ORNI005S",
+    "field": "Oroni",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 4.8,
+    "ceiling_pptb": 9.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE011S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM032L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 5.6,
+    "ceiling_pptb": 11.9,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "UZRW014S",
+    "field": "Uzere-West",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE011L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE009L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.8,
+    "ceiling_pptb": 6.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM037S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 1.7,
+    "ceiling_pptb": 4.5,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE011S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.0,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM037L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 5.4,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM018L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.5,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE021T",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 6.1,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR011S",
+    "field": "Evwreni",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 7.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ORNI008L",
+    "field": "Oroni",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.3,
+    "ceiling_pptb": 8.6,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE033L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 4.3,
+    "ceiling_pptb": 8.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE032L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.3,
+    "ceiling_pptb": 7.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE030S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 6.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM002L",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 1.8,
+    "ceiling_pptb": 5.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "OLOM005S",
+    "field": "Olomoro-Oleh",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 5.0,
+    "ceiling_pptb": 9.4,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE014S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.4,
+    "ceiling_pptb": 4.8,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "ORNI005L",
+    "field": "Oroni",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.7,
+    "ceiling_pptb": 6.6,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE006S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 7.2,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE028L",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.6,
+    "ceiling_pptb": 5.3,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE026S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 5.4,
+    "ceiling_pptb": 10.5,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE024T",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.9,
+    "ceiling_pptb": 6.7,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "AFIE023S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 2.0,
+    "ceiling_pptb": 5.0,
+    "risk": "Normal"
+  },
+  {
+    "well_id": "EVWR013L",
+    "field": "Evwreni",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 5.1,
+    "ceiling_pptb": 10.2,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "ORNI004L",
+    "field": "Oroni",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.8,
+    "ceiling_pptb": 8.7,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE028S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 5.5,
+    "ceiling_pptb": 11.0,
+    "risk": "Elevated"
+  },
+  {
+    "well_id": "AFIE005S",
+    "field": "Afiesere",
+    "last_recorded_month": "2011-04",
+    "expected_pptb": 3.5,
+    "ceiling_pptb": 7.8,
+    "risk": "Normal"
+  }
+]
