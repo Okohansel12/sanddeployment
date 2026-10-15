@@ -248,3 +248,42 @@ def predict(req: PredictRequest):
 @app.get("/health")
 def health():
     return {"status": "ok", "model_features": len(FEATURES)}
+
+
+# ---------------------------------------------------------------- portfolio snapshot
+WELLS_SNAPSHOT = json.load(open(MODELS_DIR / "wells_snapshot.json"))
+
+
+@app.get("/wells")
+def list_wells():
+    """
+    Portfolio snapshot: expected/ceiling/risk for every well in the training
+    dataset, computed from each well's most recently RECORDED month (not a
+    live forecast). This reflects historical data only (through 2011) --
+    swap this for a live feed once one exists.
+    """
+    return {
+        "wells": WELLS_SNAPSHOT,
+        "as_of": "most recently recorded month per well (historical dataset, not live)",
+        "count": len(WELLS_SNAPSHOT),
+    }
+
+
+# ---------------------------------------------------------------- feature weighting
+FEATURE_WEIGHTS = json.load(open(MODELS_DIR / "feature_weights.json"))
+
+
+@app.get("/feature-weights")
+def feature_weights():
+    """
+    Global feature weighting: which operational inputs show the strongest
+    relationship to sanding, as a percentage. Sand-history features
+    (lags/rolling stats of the well's own past readings) are excluded by
+    design -- they dominate the model and would otherwise crowd out every
+    other signal. 'Year' is also excluded; see `note` for why.
+
+    This is a GLOBAL ranking computed once across the full training set
+    (permutation importance), not a per-prediction explanation -- it does
+    not change based on which well or month is queried.
+    """
+    return FEATURE_WEIGHTS
