@@ -1,0 +1,81 @@
+{
+  "weights": [
+    {
+      "feature": "GOR_chg",
+      "label": "Change in gas-oil ratio (month-over-month)",
+      "weight_pct": 56.74
+    },
+    {
+      "feature": "Water_Cut",
+      "label": "Water cut",
+      "weight_pct": 13.89
+    },
+    {
+      "feature": "Water_Cut_chg",
+      "label": "Change in water cut",
+      "weight_pct": 7.34
+    },
+    {
+      "feature": "Month",
+      "label": "Seasonality (calendar month)",
+      "weight_pct": 6.91
+    },
+    {
+      "feature": "Gas_Rate_mscfd",
+      "label": "Gas production rate",
+      "weight_pct": 3.13
+    },
+    {
+      "feature": "Water_Rate_bpd",
+      "label": "Water production rate",
+      "weight_pct": 3.09
+    },
+    {
+      "feature": "Oil_Rate_bpd_chg",
+      "label": "Change in oil rate",
+      "weight_pct": 2.68
+    },
+    {
+      "feature": "GOR",
+      "label": "Gas-oil ratio",
+      "weight_pct": 2.11
+    },
+    {
+      "feature": "Liquid_Rate_bpd_chg",
+      "label": "Change in liquid rate",
+      "weight_pct": 1.53
+    },
+    {
+      "feature": "Delta_Bean_Size",
+      "label": "Change in choke/bean size",
+      "weight_pct": 1.41
+    },
+    {
+      "feature": "liq_ratio",
+      "label": "Liquid rate vs. recent average",
+      "weight_pct": 1.16
+    }
+  ],
+  "excluded_sand_history_features": [
+    "sand_lag1",
+    "sand_lag2",
+    "sand_lag3",
+    "sand_lag6",
+    "sand_lag12",
+    "sand_roll3",
+    "sand_roll6",
+    "sand_roll12",
+    "sand_std6",
+    "sand_max6",
+    "sand_min6",
+    "sand_trend",
+    "sand_dev_roll6",
+    "sand_ewm",
+    "sand_cummax"
+  ],
+  "excluded_other": [
+    "Year"
+  ],
+  "note": "Ranking excludes sand-history features (lags/rolling stats of the well's own past sand readings), which dominate the model and would otherwise crowd out every other signal. 'Year' was also excluded: in testing it carried ~87.83% of the non-sand-history weight on its own, almost certainly reflecting dataset-era effects (instrumentation and data-collection changes across 1966-2011) rather than a physical driver of sanding. Weights are global (computed once across the full training set via permutation importance), not specific to any single prediction.",
+  "method": "Permutation importance (R2 drop), HistGradientBoostingRegressor point model, 15 repeats"
+}
